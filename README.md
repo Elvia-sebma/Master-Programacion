@@ -14,7 +14,7 @@ A continuación, detallo las secciones cubiertas en este lenguaje:
 
 * **Fundamentos y Lógica:**
     - [x] Introducción, Variables y Cadenas.
-    - [ ] Operadores, Sentencias y Ciclos.
+    - [x] Operadores, Sentencias y Ciclos.
     - [ ] Estructuras de Datos (Listas, Diccionarios) y Funciones.
 * **Avanzado:**
     - [ ] Programación Orientada a Objetos (POO).
